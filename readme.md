@@ -1,4 +1,4 @@
-# Veðurapp með Kortasamsvörun
+# Veðurspá með gagnvirku korti
 
 ## Lýsing
 
