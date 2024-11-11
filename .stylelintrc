@@ -1,0 +1,9 @@
+{
+    "extends": ["stylelint-config-standard", "stylelint-config-sass-guidelines"],
+    "rules": {
+      "import-notation": null,
+      "selector-no-qualifying-type": null,
+      "media-feature-range-notation": null
+  
+    }
+  }
