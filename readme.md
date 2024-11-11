@@ -37,3 +37,7 @@ Forritið er keyrt á Netlify og er aðgengilegt á eftirfarandi slóð: [Setji�
 
 ## Utanaðkomandi hjálp
 Gervigreindin ChatGPT var notuð í þessu verkefni til að einfalda störf og gera þau fljótlegri. ChatGPT var nánar tiltekið notað til þess að skrifa upp readme.md, setja upp einfalt útlit í css og hjálpa til með föll þegar þess þurfti. 
+
+## PS
+
+Ég er meðvitaður um að "markerinn" er ekki inn á kortinu á síðunni keyrandi í hýsingu. Hann hefur dottið út þegar verkefnið fór í gegnum Netlify en ég taldi það ekki skipta miklu máli fyrir þetta verkefni þar sem áherslur eru á öðrum hlutum.
