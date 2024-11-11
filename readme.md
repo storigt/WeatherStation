@@ -4,6 +4,24 @@
 
 Þetta verkefni er veðurforrit sem sýnir veðurgögn fyrir alla staði. Notendur geta valið fyrirfram skilgreinda staði, leitað að hvaða stað sem er með nafni, eða smellt á gagnvirkt kort til að fá veðurupplýsingar fyrir þann stað. Forritið notar nútíma JavaScript tól og Web API til að veita gagnvirka notendaupplifun.
 
+## JavaScript tól
+
+Verkefnið notar „nútímalegt“ JavaScript tól, Vite, til að stjórna uppsetningarferlinu og hámarka þróunarhraða. 
+
+### Notuð tól og uppsetning þeirra:
+
+- **Build framework**: 
+  - **Vite**: Vite er háhraða frontend byggingarverkfæri. Það er sett upp með `npm install` og býður upp á hraða þróunarferli með skipuninni `npm run dev` og framleiðslugerð með `npm run build`.
+
+- **Prófunartól**: 
+  - Þótt þetta verkefni hafi ekki skyldu til að nota sérstakt prófunartól, mætti skoða Jest, Cypress eða Playwright til að skrifa prófanir fyrir alvöru virkni.
+
+- **CSS framework**: 
+  - **Tailwind CSS** eða **Bootstrap** mætti einnig nota fyrir hraðvirka og stílhreina CSS uppsetningu ef þess þarf, en þetta verkefni notar eingöngu handskrifað CSS ásamt Sass.
+
+- **Uppbygging á fyrri verkefnum**:
+  - Þetta veðurforrit heldur áfram með virkni frá fyrri verkefnum, eins og verkefni 9, með nánari veðurspá og kortasamskipti, sem nú notar Leaflet.js til að bæta við gagnvirkni.
+
 ## Skipanir
 
 - **`npm run dev`**: Ræsir þróunarþjóninn.
@@ -11,13 +29,6 @@
 - **`npm run lint`**: Keyrir bæði ESLint og Stylelint til að athuga hvort kóðinn sé réttur.
 - **`npm run lint:js`**: Keyrir ESLint á JavaScript skrár.
 - **`npm run lint:css`**: Keyrir Stylelint á CSS skrár.
-
-## Tækni notuð
-
-- **Vite**: Nýjasta kynslóð frontend byggingarverkfæra.
-- **Leaflet.js**: Opin uppspretta JavaScript bókasafn fyrir gagnvirk kort, með stuðningi fyrir snjallsíma.
-- **ESLint**: JavaScript lint til að tryggja stöðugleika í kóða.
-- **Stylelint**: Nútímalegt lint til að koma í veg fyrir villur og fylgja stöðlum í stílum.
 
 ## Notuð Web API
 
