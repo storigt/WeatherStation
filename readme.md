@@ -13,12 +13,6 @@ Verkefnið notar „nútímalegt“ JavaScript tól, Vite, til að stjórna upps
 - **Build framework**: 
   - **Vite**: Vite er háhraða frontend byggingarverkfæri. Það er sett upp með `npm install` og býður upp á hraða þróunarferli með skipuninni `npm run dev` og framleiðslugerð með `npm run build`.
 
-- **Prófunartól**: 
-  - Þótt þetta verkefni hafi ekki skyldu til að nota sérstakt prófunartól, mætti skoða Jest, Cypress eða Playwright til að skrifa prófanir fyrir alvöru virkni.
-
-- **CSS framework**: 
-  - **Tailwind CSS** eða **Bootstrap** mætti einnig nota fyrir hraðvirka og stílhreina CSS uppsetningu ef þess þarf, en þetta verkefni notar eingöngu handskrifað CSS ásamt Sass.
-
 - **Uppbygging á fyrri verkefnum**:
   - Þetta veðurforrit heldur áfram með virkni frá fyrri verkefnum, eins og verkefni 9, með nánari veðurspá og kortasamskipti, sem nú notar Leaflet.js til að bæta við gagnvirkni.
 
